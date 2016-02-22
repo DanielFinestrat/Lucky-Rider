@@ -2,13 +2,13 @@
 
 Lucky Rider es un Shoot 'Em Up para Android desarrollado en Unity usando C#.
 
-¡Maldición! Montante en tu caballo y dispara a esos bastardos con alas, ¡pero no gastes tus balas o pronto estarás en el otro barrio! Toca la pantalla para disparar, ¡pero si no le das a ninguno perderás una bala!
+Â¡MaldiciÃ³n! Montante en tu caballo y dispara a esos bastardos con alas, Â¡pero no gastes tus balas o pronto estarÃ¡s en el otro barrio! Toca la pantalla para disparar, Â¡pero si no le das a ninguno perderÃ¡s una bala!
 ____
 ____
 # Mejoras 1.7:
 *- GUI cambiado.
 
-*- Conexión con Google Play mejorada.
+*- ConexiÃ³n con Google Play mejorada.
 
 # Mejoras 1.6:
 *- Dependencia de dispositivo arreglada.
@@ -18,11 +18,11 @@ ____
 
 *- Se establecen los tiempos de los buitres.
 
-*- Se arregla la animación de las balas.
+*- Se arregla la animaciÃ³n de las balas.
 
-*- Resolución ampliada para mejor calidad gráfica.
+*- ResoluciÃ³n ampliada para mejor calidad grÃ¡fica.
 
-*- Añadidas medallas.
+*- AÃ±adidas medallas.
 
 *- Dificultad ajustada.
 
@@ -31,5 +31,7 @@ ____
 ____
 ____
 Lucky Rider en la Play Store: https://play.google.com/store/apps/details?id=com.garagefruit.LuckyRider
-Musica del menú: Neo Western por Kevin MacLeod
+
+Musica del menÃº: Neo Western por Kevin MacLeod
+
 Tema principal: Cowboy Guitar por D.S. Gosalbez
