@@ -32,10 +32,10 @@ ____
 
 ____
 ____
-Lucky Rider en la Play Store: https://play.google.com/store/apps/details?id=com.garagefruit.LuckyRider
+Lucky Rider disponible en la [Play Store](https://play.google.com/store/apps/details?id=com.garagefruit.LuckyRider).
 
 Musica del menú: Neo Western por Kevin MacLeod
 
 Tema principal: Cowboy Guitar por D.S. Gosalbez
 
-Daniel Finestrat Martinez, 2015.
+[Daniel Finestrat Martínez 2015.](https://garagefruit.com)
