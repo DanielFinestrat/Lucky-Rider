@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 26fa1684734937e4ab8211bfcaa74bde
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HeadP
+    21300002: Ear1H
+    21300004: Ear2H
+    21300006: BodyP
+    21300008: HeadH
+    21300010: Tail1H
+    21300012: Tail2H
+    21300014: ArmP
+    21300016: BodyH
+    21300018: Tail3H
+    21300020: Gun
+    21300022: UpperBackH
+    21300024: UpperFrontH
+    21300026: Vulture
+    21300028: Bullet
+    21300030: BootP
+    21300032: LowerBackH
+    21300034: LowerFrontH
+    21300036: Tail
+    21300038: Tail2
+    21300040: Tail3
+    21300042: BulletP
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: HeadP
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 823
+        width: 78
+        height: 85
+      alignment: 9
+      pivot: {x: .415734023, y: .0669720843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ear1H
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 881
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ear2H
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 884
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BodyP
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 636
+        width: 164
+        height: 168
+      alignment: 9
+      pivot: {x: .27556479, y: .476526171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HeadH
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 649
+        width: 129
+        height: 154
+      alignment: 9
+      pivot: {x: .306384176, y: .272372544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tail
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 787
+        width: 61
+        height: 79
+      alignment: 9
+      pivot: {x: .765783072, y: .871623755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tail2
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 650
+        width: 22
+        height: 92
+      alignment: 9
+      pivot: {x: .539833784, y: .890554667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ArmP
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 547
+        width: 140
+        height: 38
+      alignment: 9
+      pivot: {x: .925663412, y: .292440325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BodyH
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 456
+        width: 295
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tail3
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 508
+        width: 22
+        height: 82
+      alignment: 9
+      pivot: {x: .460163474, y: .847340643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gun
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 377
+        width: 232
+        height: 127
+      alignment: 9
+      pivot: {x: .647320151, y: .482748926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UpperBackH
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 247
+        width: 77
+        height: 153
+      alignment: 9
+      pivot: {x: .505690515, y: .812169671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UpperFrontH
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 246
+        width: 74
+        height: 156
+      alignment: 9
+      pivot: {x: .517763734, y: .811784625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Vulture
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 144
+        width: 237
+        height: 262
+      alignment: 9
+      pivot: {x: .492604434, y: .402997792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BulletP
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 252
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BootP
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 120
+        width: 64
+        height: 50
+      alignment: 9
+      pivot: {x: .465766907, y: .701564968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LowerBackH
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 105
+        width: 41
+        height: 109
+      alignment: 9
+      pivot: {x: .510687113, y: .861802816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LowerFrontH
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 99
+        width: 39
+        height: 109
+      alignment: 9
+      pivot: {x: .432587445, y: .881903112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
