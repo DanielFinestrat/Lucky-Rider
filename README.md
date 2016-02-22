@@ -32,7 +32,7 @@ ____
 
 ____
 ____
-Lucky Rider disponible en la [Play Store](https://play.google.com/store/apps/details?id=com.garagefruit.LuckyRider).
+Lucky Rider está disponible en la [Play Store](https://play.google.com/store/apps/details?id=com.garagefruit.LuckyRider).
 
 Musica del menú: Neo Western por Kevin MacLeod
 
