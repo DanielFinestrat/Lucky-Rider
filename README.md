@@ -37,3 +37,5 @@ Lucky Rider en la Play Store: https://play.google.com/store/apps/details?id=com.
 Musica del menú: Neo Western por Kevin MacLeod
 
 Tema principal: Cowboy Guitar por D.S. Gosalbez
+
+Daniel Finestrat Martinez, 2015.
