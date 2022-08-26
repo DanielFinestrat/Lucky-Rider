@@ -6,4 +6,4 @@ Lucky Rider es un Shoot 'Em Up para Android desarrollado en Unity(4.6.8f1) usand
 
 Lucky Rider está disponible en la [Play Store](https://play.google.com/store/apps/details?id=com.garagefruit.LuckyRider).
 
-[Daniel Finestrat Martínez 2015.](https://danielfinestrat.com)
+2015.
